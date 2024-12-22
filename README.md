@@ -3,7 +3,7 @@
 ## ⇁  HARPOON 2
 This is a deprecated and all future changes will be to the branch `harpoon2`.
 
-[Harpoon 2](https://github.com/ThePrimeagen/harpoon/tree/harpoon2)
+[Harpoon 2](https://github.com/phfpx/harpoon.nvim/tree/harpoon2)
 
 **STATUS**: Merging into mainline April 20th or June 9th (nice)
 
